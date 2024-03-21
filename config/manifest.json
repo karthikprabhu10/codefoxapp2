@@ -1,10 +1,10 @@
 {
-  "name": "Mobile App Name",
-  "short_name": "Mobile App Name",
+  "name": "CodeFox",
+  "short_name": "CodeFox",
   "orientation": "portrait",
   "display": "standalone",
   "start_url": "/",
-  "description": "A super tagline for the mobile app",
+  "description": "CodeFox is an online learning platform that offers free coding classes in programming languages.",
   "scope": "/",
   "theme_color": "#efeeff",
   "background_color": "#efeeff"
