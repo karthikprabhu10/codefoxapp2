@@ -2,7 +2,7 @@ name: CodeFox
 description: CodeFox is an online learning platform that offers free coding classes in programming languages.
 full_description: 'A more complete description of the mobile app<br>
 <br>With a lot of features:
-<br>- Feature 1
+<br>- <b>Feature 1<b>
 <br>- Feature 2
 <br>- Feature 3'
 android: https://telegra.ph/Replace-this-link-07-23
